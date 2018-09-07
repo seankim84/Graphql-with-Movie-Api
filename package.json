@@ -1,0 +1,8 @@
+{
+  "name": "graphql-movieapi",
+  "version": "1.0.0",
+  "description": "movie grpahql api ",
+  "main": "index.js",
+  "author": "Sean",
+  "license": "MIT"
+}
